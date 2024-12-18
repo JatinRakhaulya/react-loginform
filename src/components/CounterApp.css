@@ -1,0 +1,23 @@
+.disp{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: aqua;
+  border: 5px solid black;
+  box-shadow: 10px 10px 10px;
+  padding: 20px;
+}
+
+
+.btn{
+  background-color: chartreuse;
+}
+.header{
+  font-size: 24px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  padding: 10px;
+  background-color: lightblue;
+  border-radius: 8px;
+}
